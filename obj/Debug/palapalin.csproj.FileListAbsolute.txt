@@ -1,0 +1,7 @@
+C:\Users\Lombeida Escaleras\Documents\U 1 semestre\Algoritmo\ing visual\deber para 5-01-2024\palapalin\palapalin\bin\Debug\palapalin.exe.config
+C:\Users\Lombeida Escaleras\Documents\U 1 semestre\Algoritmo\ing visual\deber para 5-01-2024\palapalin\palapalin\bin\Debug\palapalin.exe
+C:\Users\Lombeida Escaleras\Documents\U 1 semestre\Algoritmo\ing visual\deber para 5-01-2024\palapalin\palapalin\bin\Debug\palapalin.pdb
+C:\Users\Lombeida Escaleras\Documents\U 1 semestre\Algoritmo\ing visual\deber para 5-01-2024\palapalin\palapalin\obj\Debug\palapalin.csproj.AssemblyReference.cache
+C:\Users\Lombeida Escaleras\Documents\U 1 semestre\Algoritmo\ing visual\deber para 5-01-2024\palapalin\palapalin\obj\Debug\palapalin.csproj.CoreCompileInputs.cache
+C:\Users\Lombeida Escaleras\Documents\U 1 semestre\Algoritmo\ing visual\deber para 5-01-2024\palapalin\palapalin\obj\Debug\palapalin.exe
+C:\Users\Lombeida Escaleras\Documents\U 1 semestre\Algoritmo\ing visual\deber para 5-01-2024\palapalin\palapalin\obj\Debug\palapalin.pdb
